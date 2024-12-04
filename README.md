@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Rafael
 
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="350x" align="right">
+<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="350px" align="right">
 I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 <br><br>
@@ -20,7 +20,7 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 
 ### Projects
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction.png?raw=true" width="350x">
+<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction2.png?raw=true" width="150px">
 <br><br>
 
 ### How can you reach me?
