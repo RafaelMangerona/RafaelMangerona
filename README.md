@@ -19,6 +19,10 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMangerona&layout=compact&count_private=true&theme=dracula"/>
 <br><br>
 
+### Projects
+Shortly
+<br><br>
+
 ### How can you reach me?
 <a href="mailto:rmangerona@hotmail.com" title="Gmail"><img src="https://img.shields.io/badge/-GMail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rafaelmangerona" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
