@@ -1,7 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Rafael
 
 <img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="350px" align="right">
-I have been working as a Software Engineer for the last 18 years.<br>
+I have been working as a Software Engineer for the last 17 years.<br>
 <br><br>
 <br><br>
 <br><br>
@@ -29,4 +29,5 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <a href="https://wa.me/11986125587" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/rafael.mangerona/profilecard/?igsh=MmI3b2t1bm9reG9n" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 <br><br>
-Feel free to contact me to discuss collaborations, interesting projects or anything else programming related. I look forward to hearing from you.
+Feel free to contact me to discuss collaborations, interesting projects or anything else programming related.<br>
+I look forward to hearing from you.
