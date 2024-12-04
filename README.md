@@ -6,8 +6,6 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 <br><br>
 
-<hr>
-
 ### Tech Stack and Tools
 <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongo,idea,eclipse,vscode,aws,github&theme=dark"> <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,javascript,html,css&theme=dark">
 <br><br>
