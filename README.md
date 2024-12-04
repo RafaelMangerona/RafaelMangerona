@@ -11,8 +11,7 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelMangerona&show_icons=true&theme=dark" width="45%"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMangerona&theme=dark" width="47.6%">
-
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelMangerona&show_icons=true&theme=dark" width="45%">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMangerona&theme=dark" width="47.6%">
 <br><br>
 
 ### Top Languages
