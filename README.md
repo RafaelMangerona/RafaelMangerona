@@ -1,6 +1,6 @@
 <img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" alt="dev-java" min-width="500px" max-width="500px" width="500px" align="right">
 
-# Hi there 👋 I'm Rafael
+Hi there 👋 I'm Rafael
 I have been working as a Software Engineer for the last 18 years.<br>
 I love what I do.<br>
 ffhufhru<br>
