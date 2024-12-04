@@ -20,8 +20,8 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 
 ### Projects
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction2.png?raw=true" width="150px">
-<br><br>
+<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction2.png?raw=true" width="100px">
+<br>
 
 ### How can you reach me?
 <a href="mailto:rmangerona@hotmail.com" title="Gmail"><img src="https://img.shields.io/badge/-GMail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
