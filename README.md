@@ -20,7 +20,7 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <br><br>
 
 ### Projects
-Shortly
+<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction.png?raw=true" width="350x">
 <br><br>
 
 ### How can you reach me?
