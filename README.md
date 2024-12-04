@@ -1,6 +1,5 @@
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="500px" align="right">
-
 # Hi there 👋 I'm Rafael
+<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="350x" align="right">
 I have been working as a Software Engineer for the last 18 years.<br>
 I love what I do.<br>
 ffhufhru<br>
@@ -10,6 +9,8 @@ ffhufhru<br>
 ffhufhru<br>
 ffhufhru<br>
 <br><br>
+
+<hr>
 
 ### Tech Stack and Tools
 <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongo,idea,eclipse,vscode,aws,github&theme=dark">
