@@ -20,7 +20,7 @@ I have been working as a Software Engineer for the last 18 years.<br>
 
 ### <div align="center">Top Languages</div>
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMangerona&theme=dracula&hide_border=false&&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMangerona&layout=compact&count_private=true&theme=dracula"/>
 </div>
 <br><br>
 
