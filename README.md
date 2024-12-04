@@ -25,4 +25,4 @@ I have been working as a Software Engineer for the last 18 years.<br>
 <a href="https://wa.me/11986125587" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/rafael.mangerona/profilecard/?igsh=MmI3b2t1bm9reG9n" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 <br><br>
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você!
+Feel free to contact me to discuss collaborations, interesting projects or anything else programming related. I look forward to hearing from you.
