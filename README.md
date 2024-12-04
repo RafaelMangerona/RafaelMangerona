@@ -13,13 +13,12 @@ ffhufhru<br>
 
 ### Tech Stack and Tools
 <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongo,idea,eclipse,vscode,aws,github&theme=dark">
-<br>
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,javascript,html,css&theme=dark">
 <br><br>
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelMangerona&show_icons=true&theme=dark" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMangerona&theme=dark" width="47.6%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMangerona&theme=dark" width="45%">
 <br><br>
 
 ### Top Languages
