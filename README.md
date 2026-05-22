@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Rafael
 
-<img src="https://raw.githubusercontent.com/RafaelMangerona/RafaelMangerona/main/profile.png" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/RafaelMangerona/main/profile.png" width="350px" align="right">
 
 **Data Engineer** based in Langford, BC (originally from Brazil 🇧🇷)<br><br>
 
