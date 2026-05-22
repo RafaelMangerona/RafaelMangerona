@@ -1,42 +1,51 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Rafael
 
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/profile.png?raw=true" width="350px" align="right">
-I have been working as a Software Engineer for the last 17 years.<br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<img src="https://raw.githubusercontent.com/RafaelMangerona/RafaelMangerona/main/profile.png" width="350px" align="right">
+
+**Data Engineer** based in Langford, BC (originally from Brazil 🇧🇷)<br><br>
+
+---
 
 ### Tech Stack and Tools
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongo,angular,idea,eclipse,aws,github,git,docker,kubernetes,javascript&theme=dark">
+
+<img src="https://skillicons.dev/icons?i=java,python,r,postgres,mysql,mongodb,aws,docker,git,vscode&theme=dark">
+
 <br><br>
 
-### GitHub Stats
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelMangerona&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true">
+---
+
+### About Me
+
+- 📊 5+ years working with data pipelines, ETL/ELT, and analytics
+- 💻 Background in Java backend development and database architecture
+- 🎓 Statistician turned Data Engineer
+- 🔧 Building reliable data flows for analytics and reporting
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Tech Consultant – Data & Intelligence | Autbank | 2023 – Present |
+| System Analyst / Developer | Autbank | 2008 – 2023 |
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MBA – Business Intelligence | FIAP | 2015 |
+| MBA – Financial Products & Risk Management | FIA | 2014 |
+| BSc – Statistics | UFSCar | 2008 |
+
+---
+
+### 📫 Get in Touch
+
+<a href="mailto:rmangerona@hotmail.com"><img src="https://img.shields.io/badge/Email-rmangerona@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rafaelmangerona"><img src="https://img.shields.io/badge/LinkedIn-rafaelmangerona-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/2368820766"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 <br><br>
-
-### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMangerona&layout=compact&count_private=true&theme=dracula"/>
-<br><br>
-
-### Projects
-<img src="https://github.com/RafaelMangerona/RafaelMangerona/blob/main/under_construction2.png?raw=true" width="100px">
-<br>
-
-### Reading and Interests
-* Clean Code
-* Design Patterns
-* Algorithms and Data Structures
-* Effective Java
-* SOLID
-* Rest API
-* Data
-<br><br><br>
-
-### How can you reach me?
-<a href="mailto:rmangerona@hotmail.com" title="Gmail"><img src="https://img.shields.io/badge/-GMail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rafaelmangerona" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/11986125587" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/rafael.mangerona/profilecard/?igsh=MmI3b2t1bm9reG9n" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
-<br><br>
-Feel free to contact me to discuss collaborations, interesting projects or anything else programming related. I look forward to hearing from you.
+Open to opportunities in data engineering and analytics. Let's connect!
