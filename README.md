@@ -46,6 +46,6 @@
 
 <a href="mailto:rmangerona@hotmail.com"><img src="https://img.shields.io/badge/Email-rmangerona@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="www.linkedin.com/in/rafaelmangerona"><img src="https://img.shields.io/badge/LinkedIn-rafaelmangerona-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/2368820766"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/+12368820766"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 <br><br>
 Open to opportunities in data engineering and analytics. Let's connect!
